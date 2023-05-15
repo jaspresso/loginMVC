@@ -55,7 +55,7 @@ function insert() {
 	});
 }
 </script>
-
+<!-- 테스트용 : ajax에서 result 값이 올 때의 오류 디버깅중 -->
 </head>
 <body>
 <%@ include file="../include/menu.jsp" %>
