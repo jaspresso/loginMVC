@@ -57,6 +57,7 @@ function insert() {
 </script>
 <!-- 테스트용 : ajax에서 result 값이 올 때의 오류 디버깅중 -->
 <!-- 조원1 테스트용 : git 테스트합니다. -->
+<!-- 조원1이 2번째 수정 테스트해봅니다. -->
 </head>
 <body>
 <%@ include file="../include/menu.jsp" %>
