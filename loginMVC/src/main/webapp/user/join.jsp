@@ -58,6 +58,7 @@ function insert() {
 <!-- 테스트용 : ajax에서 result 값이 올 때의 오류 디버깅중 -->
 <!-- 조원2(naver)가 테스트합니다. -->
 <!-- 조원2가 두번째 테스트 합니다. 수정사항 병합요청드립니다. -->
+<!-- 조2가 세번째 테스트 시도하는데 push , pull request test -->
 </head>
 <body>
 <%@ include file="../include/menu.jsp" %>
